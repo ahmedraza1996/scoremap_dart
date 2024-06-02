@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"D:/dart/Demo_OS_Windows/test_set\b_120_20231115_091101_274t_120_20231115_091341_740\throw\3.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"dart", "relative_coordinates":{"center_x":0.712172, "center_y":0.272777, "width":0.017609, "height":0.058469}, "confidence":0.670710}
+ ] 
+}
+]

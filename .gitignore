@@ -1,0 +1,6 @@
+/output/*
+/object-detection/*
+/yolo_v3/*
+*.jpg
+*.csv
+*.txt
